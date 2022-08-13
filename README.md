@@ -21,11 +21,11 @@ yarn add hans-logger
 Export *logger* from *hans-logger*
 
 ```javascript
-const generateId = require('hans-logger')
+const logger = require('hans-logger')
 ```
 using TypeScript
 ```typescript
-import generateId from 'hans-logger'
+import logger from 'hans-logger'
 ```  
 
 ```typescript
