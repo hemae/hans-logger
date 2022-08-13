@@ -1,6 +1,6 @@
 {
   "name": "hans-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "node.js logger based pino",
   "main": "lib/index.js",
   "scripts": {
@@ -23,8 +23,8 @@
   "homepage": "https://github.com/hemae/hans-logger#readme",
   "dependencies": {
     "dayjs": "^1.11.5",
-    "pino": "^8.4.1",
-    "pino-pretty": "^9.0.0"
+    "pino": "^7.11.0",
+    "pino-pretty": "^7.6.1"
   },
   "devDependencies": {
     "@types/pino": "^7.0.5",
